@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project files
+.idea/
+
+# Virtual environment
+venv/
+
+# Database
+db.sqlite3
